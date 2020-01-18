@@ -5,6 +5,7 @@ namespace ConsoleAppVide52InheritanceandAbstractClass
     /// <summary>
     /// Sample Maked by Jesshael Cabrera 
     /// email: jesshael@outlook.com
+    /// Inheritance, AbstractClass and Interfaces, principle of substitution, polymorphims.
     /// </summary>
     class Program
     {
